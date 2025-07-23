@@ -1,5 +1,4 @@
 # Fashion-MNIST
-# Fashion MNIST Classifier using CNN
 
 This project implements a Convolutional Neural Network (CNN) using TensorFlow/Keras to classify images from the [Fashion MNIST dataset](https://github.com/zalandoresearch/fashion-mnist).
 
